@@ -1,0 +1,15 @@
+{
+    "categorias": [ 
+        {"id": 1,"nombres": "Infantil", "Producto": "Moda", "Disponible":"Si", "Temporada": "Verano", "Descripción": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium dignissimos dolore vitae blanditiis earum qui!"},
+        {"id": 2,"nombres": "Infantil", "Producto": "Juguetes", "Disponible":"Si", "Temporada": "Navidad", "Descripción": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium dignissimos dolore vitae blanditiis earum qui!"},
+        {"id": 3,"nombres": "Damas", "Producto": "Moda", "Disponible":"Si", "Temporada": "Verano", "Descripción": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium dignissimos dolore vitae blanditiis earum qui!"},
+        {"id": 4,"nombres": "Damas", "Producto": "Maquillaje", "Disponible":"Si", "Temporada": "Verano", "Descripción": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium dignissimos dolore vitae blanditiis earum qui!"},
+        {"id": 5,"nombres": "Caballeros", "Producto": "Moda", "Disponible":"Si", "Temporada": "Verano", "Descripción": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium dignissimos dolore vitae blanditiis earum qui!"},
+        {"id": 6,"nombres": "Caballeros", "Producto": "Tecnología", "Disponible":"Si", "Temporada": "Todas", "Descripción": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium dignissimos dolore vitae blanditiis earum qui!"},
+        {"id": 7,"nombres": "Hogar", "Producto": "Línea Blanca", "Disponible":"Si", "Temporada": "Todas", "Descripción": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium dignissimos dolore vitae blanditiis earum qui!"},
+        {"id": 8,"nombres": "Hogar", "Producto": "Muebles", "Disponible":"Si", "Temporada": "Todas", "Descripción": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium dignissimos dolore vitae blanditiis earum qui!"},
+        {"id": 9,"nombres": "Deportes", "Producto": "Accesorios", "Disponible":"Si", "Temporada": "Todas", "Descripción": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium dignissimos dolore vitae blanditiis earum qui!"},
+        {"id": 10,"nombres": "Deportes", "Producto": "Máquinas", "Disponible":"Si", "Temporada": "Todas", "Descripción": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium dignissimos dolore vitae blanditiis earum qui!"}
+         
+   ]
+   }

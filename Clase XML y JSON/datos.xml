@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categorias>
+
+   <titulo> Categorias </titulo>
+
+    <categoria>
+
+        <codigo>I-4578</codigo>
+        <nombre>Infantiles</nombre>
+        <imagen>Infantil.png</imagen>
+        <parrafo>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium dignissimos dolore vitae blanditiis earum qui!</parrafo>
+    
+    </categoria>
+
+    <categoria>
+
+        <codigo>D-4585</codigo>
+        <nombre>Damas</nombre>
+        <imagen>Dama.jpg</imagen>
+        <parrafo>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium dignissimos dolore vitae blanditiis earum qui!</parrafo>
+    
+    </categoria>
+
+    <categoria>
+
+        <codigo>C-4596</codigo>
+        <nombre>Caballeros</nombre>
+        <imagen>Caballero.jpg</imagen>
+        <parrafo>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium dignissimos dolore vitae blanditiis earum qui!</parrafo>
+    
+    </categoria>
+
+    <categoria>
+
+        <codigo>H-8576</codigo>
+        <nombre>Hogar</nombre>
+        <imagen>Hogar.jpg</imagen>
+        <parrafo>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium dignissimos dolore vitae blanditiis earum qui!</parrafo>
+    
+    </categoria>
+
+    <categoria>
+
+        <codigo>X-8675</codigo>
+        <nombre>Deportes</nombre>
+        <imagen>Deportes.jpg</imagen>
+        <parrafo>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium dignissimos dolore vitae blanditiis earum qui!</parrafo>
+    
+    </categoria>
+    
+</categorias>

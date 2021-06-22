@@ -1,0 +1,80 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header {
+    background-color: rgb(84, 154, 245);
+}
+
+header nav {
+    flex-direction: row;
+    text-align: right;
+}
+
+header ul{
+    list-style: none;
+    display: inline-flex;
+}
+
+header ul li{
+    color: aliceblue;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+header ul li a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+footer {
+    background-color: rgb(84, 154, 245);
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: large;
+}
+
+/* Estilos para XML y JSON */
+
+h1{
+    color: rgb(128, 130, 133);
+}
+
+h4{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+
+h5{
+    text-align: center;
+    color: blue;
+}
+
+p{
+    text-align: center;
+}
+
+h2{
+    color: royalblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+}
+
+h3 {
+    color: palevioletred;
+}
+
+strong{
+    color: rgb(76, 250, 76);
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+img{
+    margin-left: 450px;
+    border-radius: 20px;
+}
